@@ -1,2 +1,6 @@
 this is b.txt
+<<<<<<< HEAD
 diting b.txt in car branch now after doing a.txt
+=======
+editing b.txt in bike branch now
+>>>>>>> bike
